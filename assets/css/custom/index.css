@@ -290,6 +290,12 @@ header {
     border-top-right-radius: 16px;
     margin-bottom: 30px;
 }
+.cardcustom-shadow{
+    /* box-shadow: 20px 20px 18px rgb(144, 140, 140); */
+    box-shadow: 5px 10px 8px 10px #888888;
+
+
+}
 
 .card .card-head {
     background-color: #F5FAFF;
