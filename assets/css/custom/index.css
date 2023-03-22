@@ -279,7 +279,10 @@ header {
 
 }
 
-
+.customecard2{
+    box-shadow: #000;
+    border:1px solid rgba(0,0,0,.125);;
+}
 /*  */
 .card {
     box-shadow: 0 10px 20px rgba(0, 0, 0, .1);
