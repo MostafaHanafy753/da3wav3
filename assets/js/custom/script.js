@@ -72,7 +72,15 @@
     infinite: false,
     responsive: [
       {
-        breakpoint: 1024,
+        breakpoint: 1556,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 1174,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 1,
