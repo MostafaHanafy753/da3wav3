@@ -349,7 +349,13 @@ header {
 .head-5 {
     font-size: 28px;
 }
+@media (max-width :364px) {
+    .custom-text{
+        font-size: 13px;
+        padding: 0;
+    }
 
+}
 .button2 {
     width: 25%;
     border-radius: 15px;

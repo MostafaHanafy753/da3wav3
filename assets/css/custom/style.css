@@ -72,8 +72,17 @@ body {
 .theme-nav .links .link-item a:hover {
   color: #01549F;
 }
+.vission{
+  display: block;
+}
 .theme-nav .links .link-item a:hover::before {
   width: 100%;
+}
+@media (max-width: 1556px) {
+  .vission{
+    display: inline;
+  }
+
 }
 @media (max-width: 991.98px) {
   .theme-nav {
